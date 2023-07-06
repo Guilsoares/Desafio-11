@@ -110,6 +110,16 @@ h1{
     font-size: 0.9em;
 }
 
+.card > button{
+    width: 100%;
+    border: none;
+    background-color: var(--bgheader);
+    color: var(--bgcolor);
+    font-size: 1.2;
+    padding: 5px;
+    border-radius: 3px;
+    margin-top: 5px;
+}
 
 
 
