@@ -6,6 +6,7 @@
     --font: 'Roboto', sans-serif;
     --bgheader: #3868d6;
     --bgcolor: #eeeeee;
+    --efeito: #6080cb;
 }
 
 
@@ -119,6 +120,12 @@ h1{
     padding: 5px;
     border-radius: 3px;
     margin-top: 5px;
+    transition: 0.2s;
+}
+
+.card > button:hover{
+    cursor: pointer;
+    background-color: var(--efeito);
 }
 
 
