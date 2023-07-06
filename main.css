@@ -181,6 +181,7 @@ h1{
 
     #sobreALoja{
         display: block;
+        margin: auto;
     }
 
     #sobreALoja img{
